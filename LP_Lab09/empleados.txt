@@ -1,0 +1,5 @@
+1,Daniel,2000.0
+1,Alagon,2000.0
+2,Cutiri,1000.0
+3,Daniel,1500.0
+4,Alejandro,1500.0
